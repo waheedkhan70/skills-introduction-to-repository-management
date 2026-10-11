@@ -26,3 +26,4 @@ since it contains student information. If you discover a security vulnerability,
 
 Your help in keeping our school's digital resources secure is greatly appreciated!
 Responsible disclosure of security vulnerabilities helps protect our entire school community.
+
